@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Anty Dev Docs',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://dolphin-anty.github.io/',
+  baseUrl: '/anty-dev-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'Dolphin Anty', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/dolphin-anty/anty-dev-docs',
         },
         // blog: {
         //   showReadingTime: true,

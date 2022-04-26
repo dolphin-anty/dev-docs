@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanty_dev_docs=self.webpackChunkanty_dev_docs||[]).push([[754],{2174:function(a){a.exports=JSON.parse('{"allTagsPath":"/anty-dev-docs/blog/tags","name":"hola","count":1,"permalink":"/anty-dev-docs/blog/tags/hola"}')}}]);

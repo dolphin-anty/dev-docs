@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanty_dev_docs=self.webpackChunkanty_dev_docs||[]).push([[924],{6736:function(e){e.exports=JSON.parse('{"permalink":"/anty-dev-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
