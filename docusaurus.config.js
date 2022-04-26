@@ -10,11 +10,12 @@ const config = {
   tagline: 'Dinosaurs are cool',
   url: 'https://dolphin-anty.github.io/',
   baseUrl: '/anty-dev-docs/',
+  projectName: 'anty-dev-docs',
+  organizationName: 'dolphin-anty',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Dolphin Anty', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
   presets: [
     [
