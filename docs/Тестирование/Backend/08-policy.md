@@ -28,3 +28,7 @@ title: Правила
 ```php
 $this->assertTrue(2 + 2 === 4, 'Сумма 2+2 должна быть 4.');
 ```
+
+- **Использовать методы `paginationAssertions` и `listAssertions` для тестов списков.**
+
+- **Использовать метод `parseJsonResponse` для парсинга результатов ответа.**

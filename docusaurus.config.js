@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/dolphin-anty/dev-docs',
+          editUrl: 'https://github.com/dolphin-anty/dev-docs/blob/master',
         },
         // blog: {
         //   showReadingTime: true,
@@ -112,6 +112,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['php'],
       },
     }),
 };
