@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Anty Dev Docs',
+  title: 'Dolphin Internal Docs Center',
   // tagline: 'Dinosaurs are cool',
-  url: 'https://anty-dev-docs.surge.sh/',
+  url: 'https://dolphinrucom.github.io/internal-docs/',
   baseUrl: '/',
-  projectName: 'dev-docs',
-  organizationName: 'dolphin-anty',
-  // trailingSlash: false,
+  projectName: 'internal-docs',
+  organizationName: 'doplhinrucom',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/dolphin-anty/dev-docs/blob/master',
+          editUrl: 'https://github.com/dolphinrucom/internal-docs/blob/master',
         },
         // blog: {
         //   showReadingTime: true,
@@ -44,11 +44,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Anty Dev Docs',
+        title: 'Dolphin Internal Docs Center',
         // logo: {
         //   alt: 'My Site Logo',
         //   src: 'img/logo.svg',
         // },
+        logo: {
+          alt: 'Dolphin Logo',
+          src: 'img/logo.svg',
+          href: '/',
+          target: '_self',
+          width: 32,
+          height: 32,
+        },
         items: [
           {
             type: 'doc',
