@@ -8,11 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Anty Dev Docs',
   // tagline: 'Dinosaurs are cool',
-  url: 'https://dolphin-anty.github.io/',
-  baseUrl: '/dev-docs/',
+  url: 'https://anty-dev-docs.surge.sh/',
+  baseUrl: '/',
   projectName: 'dev-docs',
   organizationName: 'dolphin-anty',
-  trailingSlash: false,
+  // trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/dolphin-anty/anty-dev-docs',
+          editUrl: 'https://github.com/dolphin-anty/dev-docs',
         },
         // blog: {
         //   showReadingTime: true,

@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "USE_SSH=true GIT_USER=zhitnyakov docusaurus deploy",
+    "deploy": "docusaurus build; surge build anty-dev-docs.surge.sh",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
