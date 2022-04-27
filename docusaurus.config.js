@@ -9,7 +9,7 @@ const config = {
   title: 'Dolphin Internal Docs Center',
   // tagline: 'Dinosaurs are cool',
   url: 'https://dolphinrucom.github.io/internal-docs/',
-  baseUrl: '/',
+  baseUrl: '/internal-docs/',
   projectName: 'internal-docs',
   organizationName: 'doplhinrucom',
   trailingSlash: false,
