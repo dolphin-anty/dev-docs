@@ -3,7 +3,7 @@ id: browser-profiles
 title: Браузерные профили
 ---
 
-# Браузеры / Browsers
+# Браузерные профили / Browser Profiles
 
 ## **Раздел “Браузеры” (профили)**
 
