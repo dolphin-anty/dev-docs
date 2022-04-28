@@ -1,4 +1,4 @@
 ---
-id: Браузерные профили
-title: browser-profiles
+id: browser-profiles
+title: Браузерные профили
 ---
