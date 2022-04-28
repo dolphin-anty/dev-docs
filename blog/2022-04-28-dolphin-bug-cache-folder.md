@@ -2,7 +2,7 @@
 slug: dolphin-bug-cache-folder
 title: Перегрузка серверов у новых пользователей
 authors:
-  name: Denis Zhitnyakov
+  - denis
 tags: [dolphin, dolphin-server, bugs, dolphin-server-bugs]
 ---
 
