@@ -1,5 +1,5 @@
 ---
-id: product-intro
+id: bookmarks
 title: Закладки
 ---
 
