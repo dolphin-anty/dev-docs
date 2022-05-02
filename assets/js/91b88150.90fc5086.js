@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanty_dev_docs=self.webpackChunkanty_dev_docs||[]).push([[770],{5509:function(a){a.exports=JSON.parse('{"allTagsPath":"/internal-docs/blog/tags","name":"\u043c\u044b\u0441\u043b\u0438","count":1,"permalink":"/internal-docs/blog/tags/\u043c\u044b\u0441\u043b\u0438"}')}}]);

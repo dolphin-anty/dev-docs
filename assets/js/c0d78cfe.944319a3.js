@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanty_dev_docs=self.webpackChunkanty_dev_docs||[]).push([[2686],{9527:function(a){a.exports=JSON.parse('{"allTagsPath":"/internal-docs/blog/tags","name":"\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430","count":1,"permalink":"/internal-docs/blog/tags/\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430"}')}}]);

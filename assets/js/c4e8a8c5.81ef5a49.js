@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanty_dev_docs=self.webpackChunkanty_dev_docs||[]).push([[8865],{5386:function(e){e.exports=JSON.parse('{"permalink":"/internal-docs/blog/tags/\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
